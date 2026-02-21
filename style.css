@@ -52,7 +52,7 @@ body{
 
 }
 #msg{
-    color: #ffffc7a;
+    color: #ffffc7;
     font-size: 4vmin;
 
 }
@@ -61,4 +61,5 @@ body{
 }
 .hide{
     display: none;
+
 }
